@@ -1,0 +1,167 @@
+
+
+body {
+  font-family: "Montserrat";
+  font-optical-sizing: auto;
+  font-weight: 400; /* or 100–900 */
+  font-style: normal;
+  background-color: #141414;
+}
+
+
+.card
+{
+	background-color: #1F1F1F;
+	width: 23vw;
+	height: 70vh;
+	border-radius: 2%;
+	margin: 0 auto;
+	margin-top: 25vh;
+	margin-bottom: 25vh;
+	border-radius: 0.5rem;
+}
+
+.profile-pic
+{
+	height: 10vh;
+	width: 6vw;
+	border-radius: 100%;
+	margin: 0 auto;
+	margin-top: 5vh;
+
+}
+.name{
+	color: #FFFFFF;
+	font-family: 'Inter';
+	font-size: 1.5rem;
+	font-weight: 600;
+	font-style: normal;
+	margin: 0 auto;
+	margin-top: 7vh;
+	height: 3vh;
+	width: 100%;
+	text-align: center;
+}
+a:link{
+	color: white;
+	text-decoration: none;
+}
+a:visited{
+	color: white;
+}
+a:hover{
+	color: grey;
+}
+
+
+.location{
+
+	font-family: 'Inter';
+	font-weight: 600;
+	font-style: normal;
+	font-size: .75rem;
+	color: #C5EE3A;
+	margin: 0 auto;
+	margin-top: 1vh;
+	height: 2.5vh;
+	width: 100%;
+	text-align: center;
+}
+
+.bio{
+	color: #FFFFFF;
+	font-family: 'Inter';
+	font-weight: 600;
+	font-style: normal;
+	margin: 0 auto;
+	margin-top: 2vh;
+	height: 5vh;
+	width: 100%;
+	font-size: .7rem;
+	text-align: center;
+
+}
+
+.github{
+	height: 3vh;
+	width: 65%;
+	text-align: center;
+	background-color: #333333;
+	margin: 0 auto;
+	font-weight: 700;
+	color: white;
+	font-size: .75rem;
+	padding-top: 0.1vh;
+	padding-bottom: 1.5vh;
+	border-radius: 0.5rem;
+}
+
+
+.front-end-mentor{
+	height: 3vh;
+	width: 65%;
+	text-align: center;
+	background-color: #333333;
+	margin: 0 auto;
+	margin-top: 2vh;
+	font-weight: 700;
+	color: white;
+	font-size: .75rem;
+	padding-top: 0.1vh;
+	padding-bottom: 1.5vh;
+	border-radius: 0.5rem;
+}
+
+.linkedin{
+	height: 3vh;
+	width: 65%;
+	text-align: center;
+	background-color: #333333;
+	margin: 0 auto;
+	margin-top: 2vh;
+	font-weight: 700;
+	color: white;
+	font-size: .75rem;
+	padding-top: 0.1vh;
+	padding-bottom: 1.5vh;
+	border-radius: 0.5rem;
+}
+
+
+.facebook{
+	height: 3vh;
+	width: 65%;
+	text-align: center;
+	background-color: #333333;
+	margin: 0 auto;
+	margin-top: 2vh;
+	font-weight: 700;
+	color: white;
+	font-size: .75rem;
+	padding-top: 0.1vh;
+	padding-bottom: 1.5vh;
+	border-radius: 0.5rem;
+}
+
+.instagram{
+	height: 3vh;
+	width: 65%;
+	text-align: center;
+	background-color: #333333;
+	margin: 0 auto;
+	margin-top: 2vh;
+	font-weight: 700;
+	color: white;
+	font-size: .75rem;
+	padding-top: 0.1vh;
+	padding-bottom: 1.5vh;
+	border-radius: 0.5rem;
+}
+
+
+.attribution
+{
+	color: white;
+	margin-top: 4vh;
+}
+
